@@ -1,2 +1,2 @@
 # ExpoApp
-Expo application for a live conference.
+Expo application for live events.
